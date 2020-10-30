@@ -1,8 +1,8 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # CoronaTracking 
+
+This project has been launched using github pages on https://abhimana06.github.io/coronaTracking/
+
 This Web page will provide the live data of corona situation across the world and can filter based on countries which will give the number of respective cases in numbers and also using charts.
 
 # Editor Used
