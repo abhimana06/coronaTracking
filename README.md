@@ -5,6 +5,10 @@ This project has been launched using github pages on https://abhimana06.github.i
 
 This Web page will provide the live data of corona situation across the world and can filter based on countries which will give the number of respective cases in numbers and also using charts.
 
+# Language Used
+ 
+ React JS with Material UI 
+
 # Editor Used
 
 Visual Studio Code
